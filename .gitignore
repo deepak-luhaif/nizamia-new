@@ -1,0 +1,18 @@
+# Ignore Node.js dependencies
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Ignore Next.js build and cache files
+.next/
+out/
+.cache/
+trace/
+
+# Ignore logs and system files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+.DS_Store

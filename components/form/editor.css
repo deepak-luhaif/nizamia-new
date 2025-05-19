@@ -1,0 +1,97 @@
+.editor table {
+  border-collapse: collapse; /* Ensures that borders are not doubled */
+  width: 100%; /* Optional: Adjusts the table width */
+}
+
+.editor th,
+.editor td {
+  border: 1px dotted black; /* Adds a border to table cells */
+  padding: 8px; /* Optional: Adds padding inside cells */
+  text-align: left; /* Optional: Aligns text to the left */
+}
+
+.editor th {
+  background-color: #f2f2f2; /* Optional: Adds a background color to headers */
+}
+
+.editor h1 {
+  font-size: 2em; /* Typically around 32px */
+}
+.editor h2 {
+  font-size: 1.5em; /* Typically around 24px */
+}
+.editor h3 {
+  font-size: 1.17em; /* Typically around 20px */
+}
+.editor h4 {
+  font-size: 1em; /* Typically around 16px */
+}
+.editor h5 {
+  font-size: 0.83em; /* Typically around 14px */
+}
+.editor h6 {
+  font-size: 0.67em; /* Typically around 12px */
+}
+
+.editor p {
+  font-size: 1em; /* Optional: Sets the font size of the paragraph */
+  font-weight: normal;
+}
+
+.editor img {
+  max-width: 100%; /* Optional: Makes images responsive */
+}
+
+.editor a {
+  color: #007bff; /* Optional: Changes the color of links */
+}
+
+.editor a:hover {
+  color: #0056b3; /* Optional: Changes the color of links on hover */
+}
+
+.editor ul {
+  list-style-type: disc; /* Optional: Changes the list style to a disc */
+}
+
+.editor ol {
+  list-style-type: decimal; /* Optional: Changes the list style to a decimal */
+}
+
+.editor blockquote {
+  border-left: 5px solid #007bff; /* Optional: Adds a border to blockquotes */
+  padding-left: 10px; /* Optional: Adds padding inside blockquotes */
+}
+
+.editor pre {
+  background-color: #f8f9fa; /* Optional: Adds a background color to code blocks */
+  padding: 10px; /* Optional: Adds padding inside code blocks */
+  overflow-x: auto; /* Optional: Adds horizontal scroll to code blocks */
+}
+
+.editor code {
+  font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace; /* Optional: Sets the font family for code */
+}
+
+.editor .button {
+  background-color: #007bff; /* Optional: Changes the background color of buttons */
+  color: white; /* Optional: Changes the text color of buttons */
+  padding: 10px 20px; /* Optional: Adds padding inside buttons */
+  border: none; /* Optional: Removes borders from buttons */
+  border-radius: 5px; /* Optional: Adds rounded corners to buttons */
+  cursor: pointer; /* Optional: Changes the cursor to a pointer on hover */
+}
+
+.editor .button:hover {
+  background-color: #0056b3; /* Optional: Changes the background color of buttons on hover */
+}
+
+.editor .button:active {
+  background-color: #0056b3; /* Optional: Changes the background color of buttons when clicked */
+}
+
+.editor .button:disabled {
+  background-color: #f2f2f2; /* Optional: Changes the background color of disabled buttons */
+  color: #c0c0c0; /* Optional: Changes the text color of disabled buttons */
+  cursor: not-allowed; /* Optional: Changes the cursor to not-allowed on disabled buttons */
+}
