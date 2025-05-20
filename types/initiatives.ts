@@ -19,6 +19,7 @@ export type Initiative = {
   sub_tagline: string;
   quote: string;
   sub_title: string;
+  video_story?: string;
   video_tagline?: string;
 };
 

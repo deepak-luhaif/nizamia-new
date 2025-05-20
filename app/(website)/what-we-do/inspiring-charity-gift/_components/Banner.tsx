@@ -7,7 +7,7 @@ const Banner = () => {
     <div className=' lg:mt-24 mt-14'>
       <div className='relative'>
         <Image
-          src='/assets/images/what-we-do/charity/Banner/Inspiring Charity Gifts Banner.png'
+          src='/assets/images/what-we-do/charity/Inspiring Charity Gifts Banner 2.png'
           alt='charity'
           height={0}
           width={0}

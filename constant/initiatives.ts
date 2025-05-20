@@ -103,6 +103,8 @@ export const initiatives: Initiatives = {
     sub_title: 'Fighting Hunger, One Meal at a Time',
     quote:
       'Ending hunger starts with a single meal. Together, we can nourish lives, spread kindness, and create a world without hunger.',
+    video_story:
+      'Our team regularly distributes freshly cooked meals to underprivileged and needy individuals across Delhi-NCR, spreading nourishment and care where it’s needed most.',
     video_tagline:
       'Millions struggle with food insecurity, unsure of their next meal. Your support can provide nutritious meals, ration kits, and essential food aid to those in need. Every contribution brings hope and nourishment. Together, we can combat hunger and build a healthier, stronger community.',
   },
@@ -204,6 +206,8 @@ export const initiatives: Initiatives = {
     sub_title: 'Bringing Healthcare Within Reach',
     quote:
       'Healthcare is not a privilege; it is a right. A healthier world begins with compassion, access, and care for all.',
+    video_story:
+      'We supported the medical treatment of a woman who survived an acid attack. Today, she has recovered well, showing immense strength & resilience in her journey toward healing.',
     video_tagline:
       'Millions struggle to access basic healthcare, leaving treatable conditions unchecked. Your support can change lives by providing medical aid, restoring vision, and delivering essential treatments to those in need. Every contribution brings hope and healing. Together, we can make healthcare accessible for all and build a healthier future.',
   },
@@ -393,6 +397,8 @@ export const initiatives: Initiatives = {
       },
     ],
     video: '/assets/images/what-we-do/skill/skill.mp4',
+    video_story:
+      'We’ve been offering free stitching classes to underprivileged women, empowering them with skills. Today, many of them are stitching clothes & earning a livelihood with dignity.',
     video_tagline:
       'By providing individuals with the tools to succeed, we empower them to break free from poverty and build a brighter future for themselves and their communities. Support skill training today and be a part of this change!',
 
@@ -503,6 +509,8 @@ export const initiatives: Initiatives = {
       },
     ],
     video: '/assets/images/what-we-do/empowerment/skill.mp4',
+    video_story:
+      'We provide free sewing machine classes to underprivileged women, empowering them to stitch clothes and earn a livelihood, fostering independence and financial stability.',
     video_tagline:
       'When women have access to skills, resources, and opportunities, they transform their lives and those around them. By supporting women’s empowerment, you help create financial independence, stronger families, and thriving communities. Invest in women today and be a part of this change!',
 
@@ -606,6 +614,8 @@ export const initiatives: Initiatives = {
       },
     ],
     video: '/assets/images/what-we-do/seasonal/winter.mp4',
+    video_story:
+      'We have been distributing woolen clothes; shawls, socks, blankets, and more to homeless people across Delhi-NCR, helping them stay warm and comfortable during colder months.',
     video_tagline:
       'When disasters strike or extreme weather hits, vulnerable communities suffer the most. By supporting emergency and seasonal relief, you help provide warmth, shelter, and essential aid. Stand with those in need—bring comfort, safety, and hope today!',
     gallary: [

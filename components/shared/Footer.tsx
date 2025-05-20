@@ -192,6 +192,7 @@ export default function Footer() {
           href={
             'https://www.instagram.com/nizamia_charitable_trust?igsh=M3NuMjY4OHBoNTN6'
           }
+          target='_blank'
         >
           <Image
             src={'/assets/icons/Instagram.svg'}
@@ -204,11 +205,7 @@ export default function Footer() {
         </Link>
       </div>
       <div className='fixed bottom-4 left-4'>
-        <Link
-          href={
-            'https://www.instagram.com/nizamia_charitable_trust?igsh=M3NuMjY4OHBoNTN6'
-          }
-        >
+        <Link href={'https://www.facebook.com/NizamicharitableTrust'} target='_blank'>
           <Image
             src={'/assets/icons/Facebook.svg'}
             alt='instagram'
