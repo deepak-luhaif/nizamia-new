@@ -108,11 +108,11 @@ export default [
   {
     image: '/assets/images/oldpicks/1-01.png',
     title: 'Honoring Leadership: Meeting with Pranab Mukherjee',
-    description: `In this picture, our founder is seen with Pranab Mukherjee, the Former President of India, who is in the center of the image.`,
+    description: `In this picture, our founder is seen with Pranab Mukherjee, the Former President of India.`,
   },
   {
     image: '/assets/images/oldpicks/1-02.png',
-    title: 'Legacy of Vision: Interaction with Indira Gandhi',
+    title: 'Interaction with Indira Gandhi',
     description: `In this photo, our founder is seen with Indira Gandhi, the former Prime Minister of India, reflecting a moment of shared commitment to community, dignity, and inclusive service.`,
   },
   {
@@ -125,12 +125,13 @@ export default [
     image: '/assets/images/oldpicks/1-05.png',
     image2: '/assets/images/oldpicks/1-08.png',
     title: ' Meeting with Rajiv Gandhi',
-    description: `In this picture, our founder is with Rajiv Gandhi, the former Prime Minister of India, seen wearing white in the foreground.`,
+    description: `In this picture, our founder is with Rajiv Gandhi, the former Prime Minister of India.
+`,
   },
   {
     image: '/assets/images/oldpicks/1-07.png',
     title: 'Dialogue with Dr. Manmohan Singh',
-    description: `In this picture, our founder is pictured with Dr. Manmohan Singh, former Prime Minister of India, wearing a white turban.`,
+    description: `In this picture, our founder is pictured with Dr. Manmohan Singh, former Prime Minister of India.`,
   },
   {
     image: '/assets/images/oldpicks/1-06.png',
@@ -156,7 +157,7 @@ export default [
     image: '/assets/images/oldpicks/1-03.png',
     image2: '/assets/images/oldpicks/1-15.png',
     title: 'Meeting with Sonia Gandhi and Atal Bihari Vajpayee',
-    description: `In the top image, Sonia Gandhi, a senior leader of the Indian National Congress, is seen engaging in a discussion with Dr. S. Mohd. Ali Nizami and other distinguished personalities. In the bottom image, Atal Bihari Vajpayee, who served as the Prime Minister of India, is seen wearing a red turban, surrounded by Dr. S. Mohd. Ali Nizami and other respected figures from the community, highlighting a moment of camaraderie and formal gathering.`,
+    description: `In the top image, Sonia Gandhi, a senior leader of the Indian National Congress, is seen engaging in a discussion with Dr. S. Mohd. Ali Nizami and other distinguished personalities. In the bottom image, Atal Bihari Vajpayee, who served as the Prime Minister of India, surrounded by Dr. S. Mohd. Ali Nizami and other respected figures from the community, highlighting a moment of camaraderie and formal gathering.`,
   },
   {
     image: '/assets/images/oldpicks/1-13.png',
@@ -166,7 +167,7 @@ export default [
   {
     image: '/assets/images/oldpicks/1-15.png',
     title: 'Meeting with Atal Bihari Vajpayee',
-    description: `In this picture, our founder is with Atal Bihari Vajpayee, former Prime Minister of India, who is wearing a red turban.`,
+    description: `In this picture, our founder is with Atal Bihari Vajpayee, former Prime Minister of India.`,
   },
   {
     image: '/assets/images/oldpicks/1-16.png',

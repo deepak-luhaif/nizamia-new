@@ -12,8 +12,8 @@ export default function AboutUs() {
         {/* Introduction Section */}
 
         <section className='relative  py-16 px-6 md:px-12'>
-          <div className='max-w-5xl mx-auto text-center space-y-6'>
-            <h1 className='text-4xl md:text-5xl font-extrabold text-gray-900 leading-tight'>
+          <div className='max-w-5xl mx-auto space-y-6'>
+            <h1 className='text-4xl md:text-5xl font-extrabold text-gray-900 leading-tight text-center'>
               A Legacy of <span className='text-[#fe9c3c]'>Service</span> and{' '}
               <span className='text-[#fe9c3c]'>Compassion</span>
             </h1>

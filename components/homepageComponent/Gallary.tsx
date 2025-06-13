@@ -4,7 +4,6 @@ import { useState } from 'react';
 import Image from 'next/image';
 import { X } from 'lucide-react';
 
-// Sample image data with varied sizes
 const galleryImages = [
   {
     id: 1,
@@ -92,7 +91,6 @@ export function Gallary() {
         ))}
       </div>
 
-      {/* Lightbox */}
       {selectedImage && (
         <div
           className='fixed inset-0 bg-black/80 z-50 flex items-center justify-center p-4'

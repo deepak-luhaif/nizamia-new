@@ -309,116 +309,116 @@ export const initiatives: Initiatives = {
       '/assets/images/what-we-do/education/letracy.jpg',
     ],
   },
-  'skills-training': {
-    id: 'skills-training',
-    title: 'Skills Training',
-    tagline: 'Empowering Livelihoods, Transforming Futures',
-    image: '/assets/images/what-we-do/skill/Banner/Skills Training Banner.png',
+  // 'skills-training': {
+  //   id: 'skills-training',
+  //   title: 'Skills Training',
+  //   tagline: 'Empowering Livelihoods, Transforming Futures',
+  //   image: '/assets/images/what-we-do/skill/Banner/Skills Training Banner.png',
 
-    description:
-      'Lack of skills and employment opportunities keeps many trapped in poverty. At Nizamia Charitable Trust, we provide vocational training programs that equip individuals with practical skills, empowering them to earn a sustainable livelihood and uplift their families.',
-    programs: [
-      {
-        title: 'Mobile Repairing: Empowering Youth with Technical Skills',
-        description:
-          'Equipping young individuals with practical skills in mobile phone repairs, helping them secure stable jobs or establish their own businesses.',
-        image:
-          '/assets/images/what-we-do/skill/Card Images/Mobile Repairing.png',
+  //   description:
+  //     'Lack of skills and employment opportunities keeps many trapped in poverty. At Nizamia Charitable Trust, we provide vocational training programs that equip individuals with practical skills, empowering them to earn a sustainable livelihood and uplift their families.',
+  //   programs: [
+  //     {
+  //       title: 'Mobile Repairing: Empowering Youth with Technical Skills',
+  //       description:
+  //         'Equipping young individuals with practical skills in mobile phone repairs, helping them secure stable jobs or establish their own businesses.',
+  //       image:
+  //         '/assets/images/what-we-do/skill/Card Images/Mobile Repairing.png',
 
-        bulletPoints: [
-          {
-            text: 'Hands-on Technical Training',
-            description:
-              'Comprehensive courses covering mobile diagnostics, hardware, and software repairs to develop job-ready expertise.',
-          },
-          {
-            text: 'Employment & Entrepreneurship Opportunities',
-            description:
-              'Empowering individuals to work in service centers, start independent repair businesses, or freelance for financial stability.',
-          },
-          {
-            text: 'Future-Ready Skill Development',
-            description:
-              'Providing industry-relevant knowledge and hands-on experience to keep up with the evolving mobile technology landscape.',
-          },
-        ],
-      },
-      {
-        title: 'Empowering Through Computer Training',
-        description:
-          'Closing the digital gap by providing essential IT skills, empowering individuals with technology-driven education, & enhancing employability for a brighter future.',
-        image:
-          '/assets/images/what-we-do/skill/Card Images/Computer Training.png',
+  //       bulletPoints: [
+  //         {
+  //           text: 'Hands-on Technical Training',
+  //           description:
+  //             'Comprehensive courses covering mobile diagnostics, hardware, and software repairs to develop job-ready expertise.',
+  //         },
+  //         {
+  //           text: 'Employment & Entrepreneurship Opportunities',
+  //           description:
+  //             'Empowering individuals to work in service centers, start independent repair businesses, or freelance for financial stability.',
+  //         },
+  //         {
+  //           text: 'Future-Ready Skill Development',
+  //           description:
+  //             'Providing industry-relevant knowledge and hands-on experience to keep up with the evolving mobile technology landscape.',
+  //         },
+  //       ],
+  //     },
+  //     {
+  //       title: 'Empowering Through Computer Training',
+  //       description:
+  //         'Closing the digital gap by providing essential IT skills, empowering individuals with technology-driven education, & enhancing employability for a brighter future.',
+  //       image:
+  //         '/assets/images/what-we-do/skill/Card Images/Computer Training.png',
 
-        bulletPoints: [
-          {
-            text: 'IT Literacy for All',
-            description:
-              'We offer foundational and advanced computer courses, ensuring individuals gain essential digital skills to thrive in today’s job market.',
-          },
+  //       bulletPoints: [
+  //         {
+  //           text: 'IT Literacy for All',
+  //           description:
+  //             'We offer foundational and advanced computer courses, ensuring individuals gain essential digital skills to thrive in today’s job market.',
+  //         },
 
-          {
-            text: 'Enhanced Employability',
-            description:
-              'From basic computing to specialized software training, our programs equip learners with in-demand skills, increasing their career prospects.',
-          },
-          {
-            text: 'Future-Ready Workforce',
-            description:
-              'By integrating technology-driven education, we prepare individuals for the evolving digital economy, enabling them to secure stable employment or start their own ventures.',
-          },
-        ],
-      },
-      {
-        title: 'Empowering Women Through Tailoring & Embroidery',
-        description:
-          'Empowering individuals with practical skills to achieve financial independence, break the cycle of poverty, and build a self-reliant future for themselves & their families.',
-        image:
-          '/assets/images/what-we-do/skill/Card Images/Tailoring & Embroidery.png',
+  //         {
+  //           text: 'Enhanced Employability',
+  //           description:
+  //             'From basic computing to specialized software training, our programs equip learners with in-demand skills, increasing their career prospects.',
+  //         },
+  //         {
+  //           text: 'Future-Ready Workforce',
+  //           description:
+  //             'By integrating technology-driven education, we prepare individuals for the evolving digital economy, enabling them to secure stable employment or start their own ventures.',
+  //         },
+  //       ],
+  //     },
+  //     {
+  //       title: 'Empowering Women Through Tailoring & Embroidery',
+  //       description:
+  //         'Empowering individuals with practical skills to achieve financial independence, break the cycle of poverty, and build a self-reliant future for themselves & their families.',
+  //       image:
+  //         '/assets/images/what-we-do/skill/Card Images/Tailoring & Embroidery.png',
 
-        bulletPoints: [
-          {
-            text: 'Hands-On Sewing & Embroidery Training',
-            description:
-              'We equip women with professional tailoring and embroidery skills, enabling them to create high-quality garments and handcrafted products.',
-          },
+  //       bulletPoints: [
+  //         {
+  //           text: 'Hands-On Sewing & Embroidery Training',
+  //           description:
+  //             'We equip women with professional tailoring and embroidery skills, enabling them to create high-quality garments and handcrafted products.',
+  //         },
 
-          {
-            text: 'Pathway to Financial Independence',
-            description:
-              " Through skill-building, women gain the confidence to start home-based businesses, secure employment, and contribute to their family's income.",
-          },
-          {
-            text: 'Creating a Supportive Community',
-            description:
-              ' Our training fosters a network of empowered women who support each other, share knowledge, and work towards economic stability together.',
-          },
-        ],
-      },
-    ],
-    video: '/assets/images/what-we-do/skill/skill.mp4',
-    video_story:
-      'We’ve been offering free stitching classes to underprivileged women, empowering them with skills. Today, many of them are stitching clothes & earning a livelihood with dignity.',
-    video_tagline:
-      'By providing individuals with the tools to succeed, we empower them to break free from poverty and build a brighter future for themselves and their communities. Support skill training today and be a part of this change!',
+  //         {
+  //           text: 'Pathway to Financial Independence',
+  //           description:
+  //             " Through skill-building, women gain the confidence to start home-based businesses, secure employment, and contribute to their family's income.",
+  //         },
+  //         {
+  //           text: 'Creating a Supportive Community',
+  //           description:
+  //             ' Our training fosters a network of empowered women who support each other, share knowledge, and work towards economic stability together.',
+  //         },
+  //       ],
+  //     },
+  //   ],
+  //   video: '/assets/images/what-we-do/skill/skill.mp4',
+  //   video_story:
+  //     'We’ve been offering free stitching classes to underprivileged women, empowering them with skills. Today, many of them are stitching clothes & earning a livelihood with dignity.',
+  //   video_tagline:
+  //     'By providing individuals with the tools to succeed, we empower them to break free from poverty and build a brighter future for themselves and their communities. Support skill training today and be a part of this change!',
 
-    sub_tagline: 'Join the Mission',
-    sub_title: 'Transforming Lives, One Skill at a Time',
+  //   sub_tagline: 'Join the Mission',
+  //   sub_title: 'Transforming Lives, One Skill at a Time',
 
-    gallary: [
-      '/assets/images/what-we-do/skill/5 Images/1.png',
-      '/assets/images/what-we-do/skill/5 Images/2.png',
+  //   gallary: [
+  //     '/assets/images/what-we-do/skill/5 Images/1.png',
+  //     '/assets/images/what-we-do/skill/5 Images/2.png',
 
-      '/assets/images/what-we-do/skill/5 Images/3.png',
+  //     '/assets/images/what-we-do/skill/5 Images/3.png',
 
-      '/assets/images/what-we-do/skill/5 Images/4.png',
+  //     '/assets/images/what-we-do/skill/5 Images/4.png',
 
-      '/assets/images/what-we-do/skill/5 Images/5.png',
-    ],
+  //     '/assets/images/what-we-do/skill/5 Images/5.png',
+  //   ],
 
-    quote:
-      'Empower through skills, transform lives. Training today creates opportunities tomorrow, fostering independence, confidence, and a brighter future for all.',
-  },
+  //   quote:
+  //     'Empower through skills, transform lives. Training today creates opportunities tomorrow, fostering independence, confidence, and a brighter future for all.',
+  // },
   'women-empowerment': {
     id: 'women-empowerment',
     title: 'Women Empowerment',
@@ -508,18 +508,18 @@ export const initiatives: Initiatives = {
         ],
       },
     ],
-    video: '/assets/images/what-we-do/empowerment/skill.mp4',
+    video: '/assets/images/what-we-do/empowerment/Comp.mp4',
     video_story:
       'We provide free sewing machine classes to underprivileged women, empowering them to stitch clothes and earn a livelihood, fostering independence and financial stability.',
     video_tagline:
       'When women have access to skills, resources, and opportunities, they transform their lives and those around them. By supporting women’s empowerment, you help create financial independence, stronger families, and thriving communities. Invest in women today and be a part of this change!',
 
     gallary: [
-      '/public/assets/images/what-we-do/empowerment/5 Images/1.png',
-      '/public/assets/images/what-we-do/empowerment/5 Images/2.png',
-      '/public/assets/images/what-we-do/empowerment/5 Images/3.png',
-      '/public/assets/images/what-we-do/empowerment/5 Images/4.png',
-      '/public/assets/images/what-we-do/empowerment/5 Images/5.png',
+      '/assets/images/what-we-do/empowerment/5 Images/1.png',
+      '/assets/images/what-we-do/empowerment/5 Images/2.png',
+      '/assets/images/what-we-do/empowerment/5 Images/3.png',
+      '/assets/images/what-we-do/empowerment/5 Images/4.png',
+      '/assets/images/what-we-do/empowerment/5 Images/5.png',
     ],
 
     quote:

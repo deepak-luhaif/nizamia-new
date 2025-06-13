@@ -4,12 +4,10 @@ import Donor from '@/components/homepageComponent/Donor';
 import Donate from '@/components/shared/Donate';
 import { initiatives } from '@/constant/initiatives';
 import Image from 'next/image';
-import ImageGrid from './_components/image-grid';
 import TwoLayoutGrid from './_components/two-layout-grid';
 
 import { Button } from '@/components/ui/button';
 import { Heart } from 'lucide-react';
-import styles from './_components/TwoLayoutGrid.module.css'; // Create this CSS file
 import Slider from './_components/slider';
 
 interface InitiativePageProps {
@@ -62,9 +60,7 @@ export default function InitiativePage({ params }: InitiativePageProps) {
       <div className='container-box   '>
         <div className='flex flex-col gap-5'>
           <div className='text-center'>
-            <h2
-              className={` ${styles.highlight} font-bold lg:text-6xl text-4xl text-blueColor `}
-            >
+            <h2 className={`font-bold lg:text-6xl text-4xl text-blueColor `}>
               {initiative.title}
             </h2>
           </div>
@@ -124,7 +120,7 @@ export default function InitiativePage({ params }: InitiativePageProps) {
       </div>
 
       {/* {initiative?.isImageGrid ? <Gallary /> : null} */}
-      {initiative?.isImageGrid ? <ImageGrid /> : null}
+      {/* {initiative?.isImageGrid ? <ImageGrid /> : null} */}
 
       <div className=' container-box  rounded-md  overflow-hidden   '>
         <div className='flex flex-col items-center py-2  '>

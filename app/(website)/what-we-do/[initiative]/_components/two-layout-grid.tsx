@@ -1,5 +1,5 @@
-import Image from "next/image";
-import styles from "./TwoLayoutGrid.module.css"; // Create this CSS file
+import Image from 'next/image';
+import styles from './TwoLayoutGrid.module.css'; // Create this CSS file
 
 const TwoLayoutGrid = ({
   title,
@@ -14,17 +14,17 @@ const TwoLayoutGrid = ({
   return (
     <div
       className={`flex flex-col md:flex-row gap-4  items-center justify-between  ${
-        isEven ? "md:flex-row-reverse" : ""
+        isEven ? 'md:flex-row-reverse' : ''
       }`}
     >
       {/* Left Side: Image */}
-      <div className="md:w-1/2 mb-8 md:mb-0">
-        <div className={`relative w-full h-full ${styles["image-container"]}`}>
+      <div className='md:w-1/2 mb-8 md:mb-0'>
+        <div className={`relative w-full h-full ${styles['image-container']}`}>
           <Image
             src={imageSrc}
-            alt="Girls"
-            objectFit="cover"
-            className="rounded-lg shadow-md"
+            alt='Girls'
+            objectFit='cover'
+            className='rounded-lg shadow-md'
             height={500}
             width={500}
           />
@@ -32,16 +32,14 @@ const TwoLayoutGrid = ({
       </div>
 
       {/* Right Side: Content */}
-      <div className="md:w-1/2 text-center md:text-left">
-        <h2 className={`${styles.highlight} text-3xl  font-bold mb-4`}>
-          {title}
-        </h2>
-        <p className="text-gray-600 leading-relaxed mb-4">{description}</p>
+      <div className='md:w-1/2 text-center md:text-left'>
+        <h2 className={` text-3xl  font-bold mb-4`}>{title}</h2>
+        <p className='text-gray-600 leading-relaxed mb-4'>{description}</p>
 
-        <ul className=" text-darkGray text-sm list-disc list-inside mb-4 text-left">
-          {bulletPoints?.map((point, index) => (
-            <li key={index} className="mb-2">
-              <strong className="text-black font-semibold ">
+        <ul className=' text-darkGray text-sm list-disc list-inside mb-4 text-left'>
+          {bulletPoints?.map((point: any, index: any) => (
+            <li key={index} className='mb-2'>
+              <strong className='text-black font-semibold '>
                 {point.text}
               </strong>
               : {point.description}
@@ -50,9 +48,9 @@ const TwoLayoutGrid = ({
         </ul>
 
         {/* Buttons */}
-        <div className="flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-4">
-          <a href="https://rzp.io/rzp/MRrhoyaM">
-            <button className="bg-greenColor hover:bg-[#5cbdb0] text-white font-bold py-2 px-4 rounded">
+        <div className='flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-4'>
+          <a href='https://rzp.io/rzp/MRrhoyaM'>
+            <button className='bg-greenColor hover:bg-[#5cbdb0] text-white font-bold py-2 px-4 rounded'>
               {buttonText2}
             </button>
           </a>
