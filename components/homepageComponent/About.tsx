@@ -8,7 +8,16 @@ const About = () => {
     <div className='container-box '>
       <div className='grid lg:grid-cols-2 grid-cols-1 lg:gap-0 gap-10'>
         <div className=''>
-          <Gallary />
+          {/* <Gallary /> */}
+
+          <Image
+            src={'/assets/images/collage.png'}
+            alt='collage'
+            height={0}
+            width={0}
+            sizes='100vw'
+            className='w-full h-full object-cover'
+          />
         </div>
         <div className='flex flex-col lg:pl-20  gap-3 '>
           <div className='flex flex-row items-center'>
