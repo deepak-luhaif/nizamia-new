@@ -71,7 +71,7 @@ export default function Footer() {
                 <Link href={'/about'}>
                   <li>Who We Are</li>
                 </Link>
-                <Link href={'/media'}>
+                <Link href={'/knowledge-hub'}>
                   <li>Knowledge Hub</li>
                 </Link>
                 <Link href={'/contact'}>
@@ -205,7 +205,10 @@ export default function Footer() {
         </Link>
       </div>
       <div className='fixed bottom-4 left-4'>
-        <Link href={'https://www.facebook.com/NizamicharitableTrust'} target='_blank'>
+        <Link
+          href={'https://www.facebook.com/NizamicharitableTrust'}
+          target='_blank'
+        >
           <Image
             src={'/assets/icons/Facebook.svg'}
             alt='instagram'
