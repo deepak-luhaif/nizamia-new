@@ -1,7 +1,6 @@
 import { Check, Heart } from 'lucide-react';
 import Image from 'next/image';
 import React from 'react';
-import { Gallary } from './Gallary';
 
 const About = () => {
   return (

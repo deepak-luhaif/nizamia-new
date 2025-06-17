@@ -113,7 +113,7 @@ export function Navbar() {
 
         {/* Other Navigation Items */}
         {[
-          { name: "Knowledge Hub", path: "/media" },
+          { name: "Knowledge Hub", path: "/knowledge-hub" },
           { name: "Contact", path: "/contact" },
         ].map((item) => (
           <Link
@@ -216,7 +216,7 @@ export function Navbar() {
 
                 {/* Other Pages */}
                 {[
-                  { name: "Knowledge Hub", path: "/media" },
+                  { name: "Knowledge Hub", path: "/knowledge-hub" },
                   { name: "Contact", path: "/contact" },
                 ].map((item) => (
                   <DrawerClose asChild key={item.path}>
