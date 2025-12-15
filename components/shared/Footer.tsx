@@ -45,7 +45,7 @@ export default function Footer() {
                 Founded by Syed Dr. Mohd Ali Nizami, a descendant of Hazrat
                 Nizamuddin Aulia (RA), Nizamia Charitable Trust upholds love,
                 unity, and compassion, believing that serving humanity is the
-                highest devotion.
+                highest form of devotion.
               </p>
               <div className='mt-4 space-y-2 text-sm'>
                 <div className='flex items-center gap-2'>

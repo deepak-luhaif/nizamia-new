@@ -234,9 +234,11 @@ export function Navbar() {
                   </DrawerClose>
                 ))}
 
-                <Button className="bg-greenColor rounded-3xl font-semibold ">
-                  Donate Now
-                </Button>
+                <Link href="/donation">
+                  <Button className="bg-greenColor rounded-3xl font-semibold ">
+                    Donate Now
+                  </Button>
+                </Link>
               </div>
             </div>
           </DrawerContent>
@@ -248,7 +250,7 @@ export function Navbar() {
         Donate Now
       </Button> */}
       <div className="hidden md:flex">
-        <a href="https://rzp.io/rzp/MRrhoyaM">
+        <Link href="/donation">
           <Button
             className={`bg-greenColor hover:bg-[#5cbdb0] font-semibold w-full   ${
               pathname === "/" ? "rounded-3xl" : "rounded-sm"
@@ -256,7 +258,7 @@ export function Navbar() {
           >
             Donate Now
           </Button>
-        </a>
+        </Link>
 
         {/* <DonateModal /> */}
       </div>

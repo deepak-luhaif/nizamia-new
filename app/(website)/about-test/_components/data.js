@@ -107,56 +107,56 @@
 export default [
   {
     image: '/assets/images/oldpicks/1-01.png',
-    title: 'Honoring Leadership: Meeting with Pranab Mukherjee',
+    title: 'With former President Pranab Mukherjee',
     description: `In this picture, our founder is seen with Pranab Mukherjee, the Former President of India.`,
   },
   {
     image: '/assets/images/oldpicks/1-02.png',
-    title: 'Interaction with Indira Gandhi',
+    title: 'With former Prime Minister Indira Gandhi',
     description: `In this photo, our founder is seen with Indira Gandhi, the former Prime Minister of India, reflecting a moment of shared commitment to community, dignity, and inclusive service.`,
   },
   {
     image: '/assets/images/oldpicks/1-03.png',
     image2: '/assets/images/oldpicks/1-04.png',
-    title: 'Meeting with Sonia Gandhi',
+    title: 'With Sonia Gandhi',
     description: `In this image, our founder shares a moment with Sonia Gandhi, highlighting our commitment to dignity, equality, and inclusion.`,
   },
   {
     image: '/assets/images/oldpicks/1-05.png',
     image2: '/assets/images/oldpicks/1-08.png',
-    title: ' Meeting with Rajiv Gandhi',
+    title: 'With former Prime Minister Rajiv Gandhi',
     description: `In this picture, our founder is with Rajiv Gandhi, the former Prime Minister of India.
 `,
   },
   {
     image: '/assets/images/oldpicks/1-07.png',
-    title: 'Dialogue with Dr. Manmohan Singh',
+    title: 'With former Prime Minister Dr. Manmohan Singh',
     description: `In this picture, our founder is pictured with Dr. Manmohan Singh, former Prime Minister of India.`,
   },
   {
     image: '/assets/images/oldpicks/1-06.png',
-    title: 'Meeting with Sahib Singh Verma',
+    title: 'With Sahib Singh Verma',
     description: `Our founder met Sahib Singh Verma, former Delhi CM and Union Labour Minister, to discuss community strengthening and livelihood improvement initiatives.`,
   },
   {
     image: '/assets/images/oldpicks/1-09.png',
-    title: 'Welcoming Global Perspectives: Students from America',
+    title: 'With Students from America',
     description: `Our founder engaged with American students, promoting global understanding and cultural exchange—core to Nizamia’s educational mission.`,
   },
   {
     image: '/assets/images/oldpicks/1-11.png',
-    title: 'Urban Development Insights with Sheila Dikshit',
+    title: 'With former Delhi CM Sheila Dikshit',
     description: `In this image, our founder is with Sheila Dikshit, a prominent Indian politician and Delhi’s longest-serving Chief Minister.`,
   },
   {
     image: '/assets/images/oldpicks/1-14.png',
-    title: ' Dr. Nizami with Rajiv Gandhi',
+    title: 'With former Prime Minister Rajiv Gandhi',
     description: `This picture was taken on 23rd November 1987 at the Prime Minister’s House. It features Dr. S. Mohd. Ali Nizami, Executive Secretary of the Nizamia Charitable Trust; Prince Hashim Jah, Chairman of the Nizamia Charitable Trust; and Rajiv Gandhi, who served as the Prime Minister of India.`,
   },
   {
     image: '/assets/images/oldpicks/1-03.png',
     image2: '/assets/images/oldpicks/1-15.png',
-    title: 'Meeting with Sonia Gandhi and Atal Bihari Vajpayee',
+    title: 'With Sonia Gandhi and former Prime Minister Atal Bihari Vajpayee',
     description: `In the top image, Sonia Gandhi, a senior leader of the Indian National Congress, is seen engaging in a discussion with Dr. S. Mohd. Ali Nizami and other distinguished personalities. In the bottom image, Atal Bihari Vajpayee, who served as the Prime Minister of India, surrounded by Dr. S. Mohd. Ali Nizami and other respected figures from the community, highlighting a moment of camaraderie and formal gathering.`,
   },
   {
@@ -166,7 +166,7 @@ export default [
   },
   {
     image: '/assets/images/oldpicks/1-15.png',
-    title: 'Meeting with Atal Bihari Vajpayee',
+    title: 'With former Prime Minister Atal Bihari Vajpayee',
     description: `In this picture, our founder is with Atal Bihari Vajpayee, former Prime Minister of India.`,
   },
   {
@@ -176,12 +176,12 @@ export default [
   },
   {
     image: '/assets/images/oldpicks/1-17.png',
-    title: ' Meeting with Imran Hussain',
+    title: 'With Delhi Minister Imran Hussain',
     description: `Our founder engaged with Imran Hussain, Delhi Minister, discussing strategies to enhance food security and promote community welfare.`,
   },
   {
     image: '/assets/images/oldpicks/1-18.png',
-    title: 'Meeting with Harsh Vardhan',
+    title: 'With former Health Minister Harsh Vardhan',
     description: `Our founder met Dr. Harsh Vardhan to discuss healthcare advancements, aligning with the trust’s vision for social upliftment.`,
   },
 ];

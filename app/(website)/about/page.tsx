@@ -86,7 +86,7 @@ export default function AboutUs() {
               className='relative flex flex-col md:flex-row md:items-start mb-20'
             >
               {/* Timeline Dot aligned with Title */}
-              <div className='absolute -left-2 top-2 md:top-4 w-4 h-4 bg-[#FBBF24] rounded-full border-2 border-white shadow-lg z-10'></div>
+              <div className='absolute -left-2 top-2 md:top-12 w-4 h-4 bg-[#FBBF24] rounded-full border-2 border-white shadow-lg z-10'></div>
 
               {/* Title and Description Block */}
               <div
@@ -94,15 +94,15 @@ export default function AboutUs() {
                   index % 2 === 0 ? 'md:ml-auto md:pr-8' : 'md:mr-auto md:pl-8'
                 }`}
               >
-                <h3 className='text-md font-semibold text-[#FBBF24] bg-white px-3 py-1 rounded shadow-md inline-block mb-4 relative z-10'>
+                <h3 className='text-md font-semibold text-[#FBBF24] bg-white px-3 py-1 rounded shadow-md inline-block mb-4 relative z-10 mt-10'>
                   {item?.title}
                 </h3>
 
-                <div className='bg-white shadow-lg rounded-2xl p-6 border border-gray-100'>
+                {/* <div className='bg-white shadow-lg rounded-2xl p-6 border border-gray-100'>
                   <p className='text-gray-600 leading-relaxed'>
                     {item?.description}
                   </p>
-                </div>
+                </div> */}
               </div>
 
               {/* Image Block */}

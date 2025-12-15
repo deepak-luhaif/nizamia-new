@@ -651,7 +651,7 @@ export const initiatives: Initiatives = {
           {
             text: 'Purified Water Supply',
             description:
-              'We establish cold drinking water plants in areas facing water shortages, ensuring a steady source of clean, safe water.',
+              'We establish cold drinking water plants in areas facing drinking water shortages, ensuring a steady source of clean, safe water.',
           },
           {
             text: 'Sustainable Water Systems',
